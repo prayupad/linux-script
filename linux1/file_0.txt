@@ -1,4 +1,1 @@
-This is test file
-lab
-file_100.txt
 file_50.txt
